@@ -4,7 +4,7 @@
 
 ## Run with SBCL
 
-SBCL is the only dependency. Run the commands below from the directory containing the script.
+SBCL(Steel Bank Common Lisp) is the only dependency. Run the commands below from the directory containing the script.
 
 **Interactive mode**
 
