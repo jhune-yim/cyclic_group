@@ -1,3 +1,4 @@
+;;; SBCL = Steel Bank Common Lisp
 ;;; Find all primitive roots of the multiplicative group of units modulo n.
 ;;; Run from the directory containing this script.
 ;;;   sbcl --script cyclic_group_cli.lisp
